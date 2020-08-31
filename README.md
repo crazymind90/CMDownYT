@@ -1,5 +1,5 @@
 # CMDownYT
-App to download youtube videos
+A small app to download youtube videos
 
 
 
